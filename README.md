@@ -1,2 +1,2 @@
-# Contact-card
+# Info-card
 ![Screenshot](Screenshot.png)
